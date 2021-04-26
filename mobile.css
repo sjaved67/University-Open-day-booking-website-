@@ -1,0 +1,22 @@
+body {
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+.gallery {
+display: flex;
+flex-wrap: wrap;
+font size: 0.9rem;
+
+}
+.gallery > div {
+flex: 1 1 50%;
+}
+
+
+
+
+
+
+
+
+}
